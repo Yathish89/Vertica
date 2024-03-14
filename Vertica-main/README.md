@@ -38,5 +38,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##Contact
 
-*Name:Brijesh Jaya Poojary.
-*Email:brijeshpujari333@gmail.com.
+*Name:Yathish.
+*Email:Yathish2089@gmail.com
